@@ -1,0 +1,9 @@
+D:\My Organization\Personal\Cursos\ASP Net core\MVC vuejs\SistemaASP\Sistema.Entidades\bin\Debug\netcoreapp3.1\Sistema.Entidades.deps.json
+D:\My Organization\Personal\Cursos\ASP Net core\MVC vuejs\SistemaASP\Sistema.Entidades\bin\Debug\netcoreapp3.1\Sistema.Entidades.dll
+D:\My Organization\Personal\Cursos\ASP Net core\MVC vuejs\SistemaASP\Sistema.Entidades\bin\Debug\netcoreapp3.1\Sistema.Entidades.pdb
+D:\My Organization\Personal\Cursos\ASP Net core\MVC vuejs\SistemaASP\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.csprojAssemblyReference.cache
+D:\My Organization\Personal\Cursos\ASP Net core\MVC vuejs\SistemaASP\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.AssemblyInfoInputs.cache
+D:\My Organization\Personal\Cursos\ASP Net core\MVC vuejs\SistemaASP\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.AssemblyInfo.cs
+D:\My Organization\Personal\Cursos\ASP Net core\MVC vuejs\SistemaASP\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+D:\My Organization\Personal\Cursos\ASP Net core\MVC vuejs\SistemaASP\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.dll
+D:\My Organization\Personal\Cursos\ASP Net core\MVC vuejs\SistemaASP\Sistema.Entidades\obj\Debug\netcoreapp3.1\Sistema.Entidades.pdb
